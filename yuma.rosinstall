@@ -1,3 +1,7 @@
+###################
+## Core Packages ##
+###################
+
 - git:
     local-name: novatel
     uri: https://github.com/GAVLab/novatel.git
@@ -23,6 +27,8 @@
     uri: https://github.com/GAVLab/gps-msgs.git
     version: master
 
+
+## Probably not necessary yet/anymore?
 - git:
     local-name: rosserial
     uri: https://github.com/ozymandium/rosserial.git
