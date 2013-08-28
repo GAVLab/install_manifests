@@ -1,0 +1,48 @@
+- git:
+    local-name: novatel
+    uri: https://github.com/GAVLab/novatel.git
+    version: merge_branch
+
+- git:
+    local-name: drtk
+    uri: https://github.com/GAVLab/drtk.git
+    version: catkin
+
+- git:
+    local-name: yuma
+    uri: https://github.com/GAVLab/yuma-ros-pkg.git
+    version: master
+
+- git:
+    local-name: serial
+    uri: https://github.com/wjwwood/serial.git
+    version: master
+
+- git:
+    local-name: gps-msgs
+    uri: https://github.com/GAVLab/gps-msgs.git
+    version: master
+
+- git:
+    local-name: rosserial
+    uri: https://github.com/ozymandium/rosserial.git
+    version: hydro-devel
+
+####################
+# JavaScript Stuff #
+####################
+
+- git:
+    local-name: roslibjs
+    uri: https://github.com/RobotWebTools/roslibjs.git
+    version: r6
+
+- git:
+    local-name: highcharts
+    uri: https://github.com/highslide-software/highcharts.com.git
+    version: v3.0.4
+
+- git:
+    local-name: jquery
+    uri: https://github.com/jquery/jquery.git
+    version: 1.9-stable
