@@ -6,7 +6,7 @@
 - git:
     local-name: drtk
     uri: https://github.com/GAVLab/drtk.git
-    version: catkin
+    version: master
 
 - git:
     local-name: yuma
