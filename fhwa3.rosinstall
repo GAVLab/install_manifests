@@ -1,0 +1,12 @@
+- git:
+    local-name: fhwa3-ros-pkg
+    uri: https://github.com/ozymandium/fhwa3-ros-pkg.git
+    version: master
+- git:
+    local-name: memsense_imu
+    uri: https://github.com/GAVLab/memsense_imu.git
+    version: groovy-0.1
+- git:
+    local-name: gps_msgs
+    uri: https://github.com/GAVLab/gps-msgs.git
+    version: master
