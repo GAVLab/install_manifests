@@ -10,3 +10,7 @@
     local-name: gps_msgs
     uri: https://github.com/GAVLab/gps-msgs.git
     version: master
+- git:
+    local-name: xsens_driver
+    uri: https://github.com/GAVLab/ethzasl_xsens_driver.git
+    version: hydro
