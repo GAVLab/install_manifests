@@ -12,5 +12,5 @@
     version: master
 - git:
     local-name: ethzasl_xsens_driver
-    uri: https://github.com/GAVLab/ethzasl_xsens_driver.git
+    uri: https://github.com/ozymandium/ethzasl_xsens_driver.git
     version: hydro
