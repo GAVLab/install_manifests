@@ -4,13 +4,21 @@
     version: master
 - git:
     local-name: memsense_imu
-    uri: https://github.com/GAVLab/memsense_imu.git
-    version: groovy-0.1
+    uri: https://github.com/srv/memsense_imu.git
+    version: master
 - git:
     local-name: gps_msgs
     uri: https://github.com/GAVLab/gps-msgs.git
     version: master
 - git:
-    local-name: ethzasl_xsens_driver
-    uri: https://github.com/ozymandium/ethzasl_xsens_driver.git
+    local-name: lse-xsens-mti
+    uri: https://github.com/ozymandium/lse-xsens-mti.git
     version: hydro
+- git: 
+    local-name: gps_umd
+    uri: https://github.com/ktossell/gps_umd.git
+    version: gps_umd-0.1.6
+- git:
+    local-name: cereal-port
+    uri: https://github.com/ozymandium/cereal-port.git
+    version: master
