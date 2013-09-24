@@ -13,7 +13,7 @@
 - git:
     local-name: lse-xsens-mti
     uri: https://github.com/ozymandium/lse-xsens-mti.git
-    version: hydro
+    version: master
 - git: 
     local-name: gps_umd
     uri: https://github.com/ktossell/gps_umd.git
