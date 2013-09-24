@@ -5,7 +5,7 @@
 - git:
     local-name: memsense_imu
     uri: https://github.com/srv/memsense_imu.git
-    version: master
+    version: groovy-devel
 - git:
     local-name: gps_msgs
     uri: https://github.com/GAVLab/gps-msgs.git
