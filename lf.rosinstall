@@ -1,0 +1,8 @@
+# leader-follower
+- git: {local-name: drtk, uri: 'https://github.com/GAVLab/drtk.git', version: ros-indigo}
+- git: {local-name: tdcp, uri: 'https://github.com/GAVLab/tdcp.git', version: master}
+- git: {local-name: serial, uri: 'https://github.com/wjwwood/serial.git', version: master}
+- git: {local-name: novatel, uri: 'https://github.com/GAVLab/novatel.git', version: master}
+- git: {local-name: rpd, uri: 'https://github.com/GAVLab/rpd.git', version: master}
+- git: {local-name: gps-msgs, uri: 'https://github.com/GAVLab/gps-msgs.git', version: master}
+- git: {local-name: LFviz, uri: 'https://github.com/GAVLab/LFviz.git', version: lockheed-tdcp}
