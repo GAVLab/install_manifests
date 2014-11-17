@@ -4,8 +4,8 @@
     version: master
 - git:
     local-name: memsense_imu
-    uri: https://github.com/ozymandium/memsense_imu.git
-    version: groovy-devel
+    uri: https://github.com/srv/memsense_imu.git
+    version: indigo
 - git:
     local-name: gps_msgs
     uri: https://github.com/GAVLab/gps-msgs.git
