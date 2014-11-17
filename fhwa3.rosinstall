@@ -22,3 +22,7 @@
     local-name: cereal-port
     uri: https://github.com/ozymandium/cereal-port.git
     version: master
+- git:
+    local-name: igl
+    uri: https://github.com/libigl/libigl.git
+    version: master
