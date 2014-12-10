@@ -1,19 +1,15 @@
 - git:
     local-name: fhwa3-ros-pkg
-    uri: https://github.com/ozymandium/fhwa3-ros-pkg.git
+    uri: https://github.com/GAVLAb/fhwa3-ros-pkg.git
     version: master
-- git:
-    local-name: memsense_imu
-    uri: https://github.com/srv/memsense_imu.git
-    version: indigo
 - git:
     local-name: gps_msgs
     uri: https://github.com/GAVLab/gps-msgs.git
     version: master
 - git:
-    local-name: lse-xsens-mti
-    uri: https://github.com/ozymandium/lse-xsens-mti.git
-    version: master
+    local-name: xsens_driver
+    uri: https://github.com/ethz-asl/ethzasl_xsens_driver-release.git
+    version: debian/hydro/xsens_driver
 - git: 
     local-name: gps_umd
     uri: https://github.com/ktossell/gps_umd.git
@@ -30,3 +26,7 @@
     local-name: viso2
     uri: https://github.com/srv/viso2.git
     version: hydro-devel
+- git:
+    local-name: imu_tools
+    uri: https://github.com/ccny-ros-pkg/imu_tools.git
+    version: hydro
