@@ -32,5 +32,5 @@
     version: hydro-devel
 - git:
     local-name: xsens_driver
-    uri: https://github.com/ethz-asl/ethzasl_xsens_driver-release.git
+    uri: https://github.com/GAVLab/ethzasl_xsens_driver-release.git
     version: debian/indigo/xsens_driver
