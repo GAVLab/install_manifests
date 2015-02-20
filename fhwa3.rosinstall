@@ -22,10 +22,10 @@
     local-name: imu_tools
     uri: https://github.com/ccny-ros-pkg/imu_tools.git
     version: hydro
-- git:
-    local-name: lse-xsens-mti
-    uri: https://github.com/ozymandium/lse-xsens-mti.git
-    version: master
+# - git:
+#     local-name: lse-xsens-mti
+#     uri: https://github.com/ozymandium/lse-xsens-mti.git
+#     version: master
 - git:
     local-name: viso2
     uri: https://github.com/srv/viso2.git
@@ -33,4 +33,4 @@
 - git:
     local-name: xsens_driver
     uri: https://github.com/ethz-asl/ethzasl_xsens_driver-release.git
-    version: debian/hydro/xsens_driver
+    version: debian/indigo/xsens_driver
