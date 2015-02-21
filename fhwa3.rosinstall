@@ -25,4 +25,4 @@
 - git:
     local-name: xsens_driver
     uri: https://github.com/GAVLab/ethzasl_xsens_driver-release.git
-    version: release/indigo/xsens_driver
+    version: fhwa3
