@@ -1,0 +1,6 @@
+# add gps messages needed by novatel and drtk
+- git: {local-name: gps-msgs, uri: 'https://github.com/GAVLab/gps-msgs', version: master}
+# add novatel receiver library
+- git: {local-name: novatel, uri: 'https://github.com/GAVLab/novatel', version: master}
+# add serial driver needed by novatel library
+- git: {local-name: serial, uri: 'https://github.com/wjwwood/serial', version: master}
