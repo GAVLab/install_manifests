@@ -26,3 +26,7 @@
     local-name: xsens_driver
     uri: https://github.com/GAVLab/ethzasl_xsens_driver-release.git
     version: fhwa3
+- git:
+    local-name: open_street_map
+    uri: https://github.com/ozymandium/open_street_map.git
+    version: master
