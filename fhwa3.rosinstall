@@ -19,10 +19,6 @@
     uri: https://github.com/ccny-ros-pkg/imu_tools.git
     version: hydro
 - git:
-    local-name: viso2
-    uri: https://github.com/srv/viso2.git
-    version: hydro-devel
-- git:
     local-name: xsens_driver
     uri: https://github.com/GAVLab/ethzasl_xsens_driver-release.git
     version: fhwa3
